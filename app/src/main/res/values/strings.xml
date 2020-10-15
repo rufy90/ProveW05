@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProveW05</string>
+    <string name="edit_book">Type the book</string>
+    <string name="edit_verse">Type the verse</string>
+    <string name="edit_chapter">Type the chapter</string>
+    <string name="button_send">Send</string>
+</resources>
