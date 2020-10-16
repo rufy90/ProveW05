@@ -4,4 +4,8 @@
     <string name="edit_verse">Type the verse</string>
     <string name="edit_chapter">Type the chapter</string>
     <string name="button_send">Send</string>
+    <string name="showScripture">TextView</string>
+    <string name="save">Save</string>
+    <string name="showPreferences">Show</string>
+    <string name="showPreferencestxt">textShow</string>
 </resources>

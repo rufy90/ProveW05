@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         String message = editText.getText().toString();
         String message2 = editText2.getText().toString();
         String message3 = editText3.getText().toString();
-        String messageTogether = "Your favorite scripture is:\n" + message +" "+ message2 +":"+ message3;
+        String messageTogether = message +" "+ message2 +":"+ message3;
         Log.i(TAG, "About to create intent with: " + messageTogether);
         intent.putExtra(EXTRA_MESSAGE, messageTogether);
         startActivity(intent);
